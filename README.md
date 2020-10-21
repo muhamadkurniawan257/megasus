@@ -1,0 +1,2 @@
+# megasus
+newbie language programmer
